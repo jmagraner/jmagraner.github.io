@@ -84,7 +84,7 @@ author:
   avatar           : "avatar.jpg"
   bio              : "Postdoctoral researcher"
   location         : "Pittsburgh, PA, USA"
-  employer         : "Carnegie Mellon University"
+  employer         : #"Carnegie Mellon University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.co.uk/citations?user=u4-ClbQAAAAJ&hl=en"
   email            : jsoldadomagraner@cmu.edu
