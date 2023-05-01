@@ -35,6 +35,10 @@
 <lastmod>2018-09-29T00:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/publication/2022-Prins-Monteleone</loc>
+<lastmod>2022-02-06T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/publication/2023-Soldado-Magraner</loc>
 <lastmod>2023-02-06T00:00:00-05:00</lastmod>
 </url>
@@ -120,6 +124,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/markdown_generator/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/cv/CV_jsm.pdf</loc>
+<lastmod>2023-05-01T14:01:54-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/paper1.pdf</loc>
