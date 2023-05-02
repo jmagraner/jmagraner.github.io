@@ -3,7 +3,7 @@ title: "Brittleness in model selection analysis of single neuron firing rates"
 collection: publications
 permalink: /publication/2018-Chandrasekaran
 date: 2018-09-29
-venue: 'bioRxiv'
+venue: 'bioRxiv (as preprint)'
 ---
 
 Chandramouli Chandrasekaran, Joana Soldado-Magraner, Diogo Peixoto, William T. Newsome, Krishna V. Shenoy and Maneesh Sahani.

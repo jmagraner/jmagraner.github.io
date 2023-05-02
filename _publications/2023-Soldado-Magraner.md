@@ -3,7 +3,7 @@ title: "Inferring context-dependent computations through linear approximations o
 collection: publications
 permalink: /publication/2023-Soldado-Magraner
 date: 2023-02-06
-venue: 'bioRxiv'
+venue: 'bioRxiv (as preprint)'
 ---
 
 Joana Soldado-Magraner, Valerio Mante and Maneesh Sahani.
