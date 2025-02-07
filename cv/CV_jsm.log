@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  18 DEC 2024 14:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  7 FEB 2025 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,7 +827,7 @@ LaTeX Info: Redefining \nameref on input line 51.
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 51.
 \makecvheadpicturebox=\box72
-<jsm_picture.jpg, id=124, 2243.38126pt x 2242.3775pt>
+<jsm_picture.jpg, id=120, 2243.38126pt x 2242.3775pt>
 File: jsm_picture.jpg Graphic file (type jpg)
 <use jsm_picture.jpg>
 Package pdftex.def Info: jsm_picture.jpg  used on input line 53.
@@ -855,17 +855,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 56.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 96.
+nput line 97.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 96.
+ input line 97.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 96.
+n input line 97.
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -885,15 +885,11 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 (fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [2]
-Overfull \hbox (7.34668pt too wide) in paragraph at lines 151--151
- []|[]\OT1/cmss/m/n/10.95 (-20) 2022,2023,2024[]|
- []
-
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 179.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 180.
 
 
-Overfull \hbox (7.34668pt too wide) in paragraph at lines 192--192
+Overfull \hbox (7.34668pt too wide) in paragraph at lines 193--193
  []|[]\OT1/cmss/m/n/10.95 (-20) 2016,2022,2024[]|
  []
 
@@ -904,11 +900,11 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 
 [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 219.
+(Font)              <7> on input line 218.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 219.
+(Font)              <5> on input line 218.
 
-Underfull \hbox (badness 1082) in paragraph at lines 225--225
+Underfull \hbox (badness 1082) in paragraph at lines 224--224
 []\OT1/cmss/m/n/10 (+20) Denis Lar-rivee, Jen-nifer French, Al-berto An-toni-et
 ti, Zach McK-in-ney, Noe-line W Prins,
  []
@@ -942,13 +938,13 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.12pt have occurred.
 
 Package rerunfilecheck Info: File `CV_jsm.out' has not changed.
-(rerunfilecheck)             Checksum: 266988ED18A2296E14095C6EA13B9694;4150.
+(rerunfilecheck)             Checksum: C3B96A55053F54DBDF51BF45F1F697FA;4017.
  ) 
 Here is how much of TeX's memory you used:
- 25857 strings out of 478287
- 498018 string characters out of 5849289
- 804462 words of memory out of 5000000
- 43444 multiletter control sequences out of 15000+600000
+ 25855 strings out of 478287
+ 497994 string characters out of 5849289
+ 805462 words of memory out of 5000000
+ 43443 multiletter control sequences out of 15000+600000
  483811 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,14n,122p,1003b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -965,10 +961,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmssi17.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfsl1095.pfb>
-Output written on CV_jsm.pdf (7 pages, 2729511 bytes).
+Output written on CV_jsm.pdf (7 pages, 2729233 bytes).
 PDF statistics:
- 247 PDF objects out of 1000 (max. 8388607)
- 213 compressed objects within 3 object streams
- 37 named destinations out of 1000 (max. 500000)
- 43258 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 240 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 43250 words of extra memory for PDF output out of 51595 (max. 10000000)
 
